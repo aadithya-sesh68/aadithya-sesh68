@@ -17,7 +17,7 @@
 <h3 align="left">📈 My Github Stats</h3>
 <table>
   <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=aadithya-sesh68&theme=blue-green&show_icons=true&locale=en" alt="aadithya-sesh68" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadithya-sesh68&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="aadithya-sesh68" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aadithya-sesh68&theme=blue-green&show_icons=true&locale=en" alt="aadithya-sesh68" /></td>
   </tr>
 </table>
