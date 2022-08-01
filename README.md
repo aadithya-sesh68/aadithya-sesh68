@@ -20,5 +20,5 @@
 </div>
 
 <div class="" style="max-width: 20%; max-height: 20%;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadithya-sesh68&show_icons=true&locale=en" alt="aadithya-sesh68" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadithya-sesh68&theme=vision-friendly-dark&show_icons=true&locale=en" alt="aadithya-sesh68" />
 </div>
