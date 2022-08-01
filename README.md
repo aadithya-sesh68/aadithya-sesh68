@@ -16,7 +16,7 @@
 
 <h3 align="left">📈 My Github Stats</h3>
 <div class="" style="max-width: 20%; max-height: 20%;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadithya-sesh68&theme=dark&show_icons=true&locale=en&layout=compact" alt="aadithya-sesh68" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadithya-sesh68&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="aadithya-sesh68" />
 </div>
 
 <div class="" style="max-width: 20%; max-height: 20%;">
